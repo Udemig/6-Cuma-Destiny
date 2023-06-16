@@ -1,6 +1,6 @@
 # Landing Page
 
-Project that based on styling
+Project that based on styling.
 
 ## Used Technologies
 
